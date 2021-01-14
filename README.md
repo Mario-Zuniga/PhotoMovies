@@ -7,6 +7,7 @@ The project implements redux, router, axios & material ui.
 ### Technologies
 
 * [React JS](https://github.com/facebook/react) 
+* [React Router](https://github.com/ReactTraining/react-router) 
 * [Redux](https://github.com/reduxjs/redux)
 * [axios](https://github.com/axios/axios)
 * [Material-UI-Dropzone](https://yuvaleros.github.io/material-ui-dropzone)
