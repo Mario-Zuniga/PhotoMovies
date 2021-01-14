@@ -33,7 +33,7 @@ function DropImage() {
     async function getData() {
       await axios({
         method: "post",
-        url: "http://54.205.146.64/upload",
+        url: "https://whois.nomada.cloud/upload",
         data: bodyFormData,
         headers: { Nomada: "MzZlY2JkNDctYTBmOS00ZTk1LTk5MWItY2JiMWJlNWEwODEx" },
       })
